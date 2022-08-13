@@ -1,2 +1,2 @@
 # Estudos
-Repository to keep my studies
+Repository to study concepts of programming and implement solutions
